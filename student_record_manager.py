@@ -1,10 +1,3 @@
-"""
-Student Record Manager — Python File Handling Mini Project
-Topics: TXT/CSV files, file modes, read/write, with and without with,
-tell(), seek(), pickle, zip/unzip.
-Run: python student_record_manager.py
-"""
-
 import csv
 import os
 import pickle
